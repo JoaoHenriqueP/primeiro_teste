@@ -5,3 +5,4 @@ if (boletoNumeros.length == 47) {
             let multiplicacao = multiplicadores[cont] * valor[cont]
             somaTot = somaTot + multiplicacao
         }
+    }
